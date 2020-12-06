@@ -1,0 +1,406 @@
+{
+    "results": [
+        {
+            "popularity": 1447.764,
+            "vote_count": 18,
+            "video": false,
+            "poster_path": "/m9cn5mhW519QKr1YGpGxNWi98VJ.jpg",
+            "id": 635302,
+            "adult": false,
+            "backdrop_path": "/xoqr4dMbRJnzuhsWDF3XNHQwJ9x.jpg",
+            "original_language": "ja",
+            "original_title": "劇場版「鬼滅の刃」無限列車編",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                18,
+                14,
+                36
+            ],
+            "title": "劇場版「鬼滅の刃」無限列車編",
+            "vote_average": 7.5,
+            "overview": "",
+            "release_date": "2020-10-16"
+        },
+        {
+            "popularity": 811.93,
+            "vote_count": 233,
+            "video": false,
+            "poster_path": "/3xsH01M4YqwoewjnL2IDjDm1fFR.jpg",
+            "id": 531219,
+            "adult": false,
+            "backdrop_path": "/f2rYRh4TmhHZutQR2wL2tm97G6I.jpg",
+            "original_language": "en",
+            "original_title": "Roald Dahl's The Witches",
+            "genre_ids": [
+                12,
+                35,
+                14,
+                27,
+                10751
+            ],
+            "title": "As Bruxas de Roald Dahl",
+            "vote_average": 7.2,
+            "overview": "Robert Zemeckis reimagina a adorada obra de Roald Dahl para um público moderno. A sua visão inovadora conta a história emocionante e humoristicamente sombria de um jovem órfão que, em 1967, vai viver com a sua Avó numa cidade rural do Alabama, Demopolis. Quando o rapaz e a Avó encontram umas bruxas encantadoras, mas diabolicamente traiçoeiras, a avó decide levar o neto para um luxuoso resort à beira-mar. Infelizmente, estes chegam exatamente na mesma altura em que a Grande Bruxa-Mor decide reunir-se com todas as suas amigas bruxas – disfarçadas – para executar os seus abomináveis planos.",
+            "release_date": "2020-10-26"
+        },
+        {
+            "popularity": 654.696,
+            "vote_count": 670,
+            "video": false,
+            "poster_path": "/dGVUiqnahQ4ZZRchGRpO2SyhtQY.jpg",
+            "id": 581392,
+            "adult": false,
+            "backdrop_path": "/2nFzxaAK7JIsk6l7qZ8rFBsa3yW.jpg",
+            "original_language": "ko",
+            "original_title": "반도",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "title": "Península",
+            "vote_average": 7,
+            "overview": "O filme decorre no mesmo mundo do primeiro filme, mas acontece quatro anos depois do original. Gang Dong-Won é um antigo soldado que conseguiu escapar da Coreia do Sul infestada por zombies. O vírus fez colapsar governos pelo mundo e a Coreia do Sul tornou-se numa enorme favela. O ex-soldado tem como missão entrar no país para recuperar algo muito valioso, mas depara-se com um grupo de não-infetados que precisam de ser salvos.",
+            "release_date": "2020-07-15"
+        },
+        {
+            "popularity": 328.849,
+            "vote_count": 156,
+            "video": false,
+            "poster_path": "/3eg0kGC2Xh0vhydJHO37Sp4cmMt.jpg",
+            "id": 531499,
+            "adult": false,
+            "backdrop_path": "/zogWnCSztU8xvabaepQnAwsOtOt.jpg",
+            "original_language": "en",
+            "original_title": "The Tax Collector",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "title": "The Tax Collector",
+            "vote_average": 6.1,
+            "overview": "Dois “cobradores de impostos” de um senhor do crime chamado Wizard, cujos negócios se deterioram, fazendo um deles ter de proteger-se de um antigo rival.",
+            "release_date": "2020-08-07"
+        },
+        {
+            "popularity": 300.777,
+            "vote_count": 86,
+            "video": false,
+            "poster_path": "/hP2DzWseqPihdxOFjrbGhVrSvhG.jpg",
+            "id": 726739,
+            "adult": false,
+            "backdrop_path": "/t22fWbzdnThPseipsdpwgdPOPCR.jpg",
+            "original_language": "en",
+            "original_title": "Cats & Dogs 3: Paws Unite",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "title": "Cats & Dogs 3: Paws Unite",
+            "vote_average": 6.6,
+            "overview": "",
+            "release_date": "2020-10-02"
+        },
+        {
+            "popularity": 202.077,
+            "vote_count": 136,
+            "video": false,
+            "poster_path": "/97pM35EA3gRzuZsGndoq7xljE1X.jpg",
+            "id": 616803,
+            "adult": false,
+            "backdrop_path": "/ApAK5KptmhTNjPslGAivKdlY1og.jpg",
+            "original_language": "sv",
+            "original_title": "Breaking Surface",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "title": "Breaking Surface",
+            "vote_average": 7.2,
+            "overview": "",
+            "release_date": "2020-02-14"
+        },
+        {
+            "popularity": 143.972,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "/2xtqkht2u7SkrZPd6zyMRymE4nt.jpg",
+            "id": 499338,
+            "adult": false,
+            "backdrop_path": "/fUxq6ilPW01roOpqB5g9SOS3zZv.jpg",
+            "original_language": "en",
+            "original_title": "I Believe",
+            "genre_ids": [
+                10751
+            ],
+            "title": "I Believe",
+            "vote_average": 0,
+            "overview": "",
+            "release_date": "2020-11-05"
+        },
+        {
+            "popularity": 126.211,
+            "vote_count": 2133,
+            "video": false,
+            "poster_path": "/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+            "id": 577922,
+            "adult": false,
+            "backdrop_path": "/wzJRB4MKi3yK138bJyuL9nx47y6.jpg",
+            "original_language": "en",
+            "original_title": "Tenet",
+            "genre_ids": [
+                28,
+                878,
+                53
+            ],
+            "title": "Tenet",
+            "vote_average": 7.5,
+            "overview": "Armado apenas com uma palavra – Tenet – e lutando pela sobrevivência do planeta, o Protagonista viaja pelo mundo penumbroso da espionagem internacional numa missão que irá desvendar algo além do tempo real. Não se trata de uma viagem no tempo. Mas sim, uma inversão.",
+            "release_date": "2020-08-22"
+        },
+        {
+            "popularity": 114.879,
+            "vote_count": 176,
+            "video": false,
+            "poster_path": "/797KzFdpG0M5Y3um7ghl3WlvSrR.jpg",
+            "id": 417466,
+            "adult": false,
+            "backdrop_path": "/hmOrnAImC8QVRurauDcK0l3jjyw.jpg",
+            "original_language": "es",
+            "original_title": "Monos",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "title": "Monos",
+            "vote_average": 6.9,
+            "overview": "No remoto cume de uma montanha, algures na América Latina, um grupo rebelde de adolescentes com nomes de guerra faz treinos militares, enquanto vigia uma prisioneira americana, a quem chama Doutora, e uma vaca leiteira recrutada em nome de uma força sombria conhecida por A Organização. O frágil equilíbrio altera-se quando uma emboscada leva o esquadrão para a selva. Os laços complexos fracturam-se e a missão começa a colapsar.",
+            "release_date": "2019-09-05"
+        },
+        {
+            "popularity": 93.806,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "/wPlE2NIOGtNzmNCMRWNI4MnGpGL.jpg",
+            "id": 590995,
+            "adult": false,
+            "backdrop_path": "/lIE7kfdLBRd0KENNtOaIqPPWNqh.jpg",
+            "original_language": "en",
+            "original_title": "The Craft: Legacy",
+            "genre_ids": [
+                18,
+                14,
+                27
+            ],
+            "title": "The Craft: Legacy",
+            "vote_average": 0,
+            "overview": "",
+            "release_date": "2020-10-28"
+        },
+        {
+            "popularity": 83.298,
+            "vote_count": 655,
+            "video": false,
+            "poster_path": "/90vSzeBoc9NweEv3tWj9A5GDggj.jpg",
+            "id": 585244,
+            "adult": false,
+            "backdrop_path": "/ezcf15gSuZmW51N5yiqE3tWg9zu.jpg",
+            "original_language": "en",
+            "original_title": "I Still Believe",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "title": "Eu Ainda Acredito",
+            "vote_average": 7.8,
+            "overview": "Inspirado na vida da estrela da música cristã Jeremy Camp e na sua jornada através do amor e da perda.",
+            "release_date": "2020-03-12"
+        },
+        {
+            "popularity": 69.178,
+            "vote_count": 4,
+            "video": false,
+            "poster_path": "/j4jg4jWBKcIdXt3Vqnrarse6BYh.jpg",
+            "id": 571384,
+            "adult": false,
+            "backdrop_path": "/snYsGAjQuH7x8p26GxWC0LfBhX.jpg",
+            "original_language": "en",
+            "original_title": "Come Play",
+            "genre_ids": [
+                27
+            ],
+            "title": "Come Play",
+            "vote_average": 9,
+            "overview": "",
+            "release_date": "2020-10-28"
+        },
+        {
+            "popularity": 56.19,
+            "vote_count": 11818,
+            "video": false,
+            "poster_path": "/jpWJNMetVR6zI7K5kJvRoGyfP3u.jpg",
+            "id": 694,
+            "adult": false,
+            "backdrop_path": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+            "original_language": "en",
+            "original_title": "The Shining",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "title": "Shining",
+            "vote_average": 8.2,
+            "overview": "O escritor Jack Torrance chega ao elegante e isolado Overlook Hotel, com a sua mulher e o filho pequeno. O seu objectivo é escrever um livro, ao mesmo tempo que serve de guarda de Inverno de um espaço que costuma ficar sem acessos nas estações frias. Torrance nunca tinha estado lá - ou será que tinha? A resposta vai ser encontrada num fantasmagórico turbilhão de loucura e de morte.",
+            "release_date": "1980-05-23"
+        },
+        {
+            "popularity": 53.046,
+            "vote_count": 142,
+            "video": false,
+            "poster_path": "/agmecdTjKctaFWc6LHLVIr5P3TP.jpg",
+            "id": 550738,
+            "adult": false,
+            "backdrop_path": "/tV15mHVJkFXlJ0P8AM7cckuuo6i.jpg",
+            "original_language": "fr",
+            "original_title": "Spycies",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                35,
+                10751
+            ],
+            "title": "Spycies: Agentes Especiais",
+            "vote_average": 7.9,
+            "overview": "Vladimir e Hector, dois agentes secretos opostos em todos os sentidos, estão a tentar recuperar um material extremamente secreto que foi roubado por intrusos desconhecidos.",
+            "release_date": "2020-01-11"
+        },
+        {
+            "popularity": 52.857,
+            "vote_count": 18,
+            "video": false,
+            "poster_path": "/r3NCBRUrqCvvWguLS8no4Mpc965.jpg",
+            "id": 390635,
+            "adult": false,
+            "backdrop_path": "/mWb5UjxCmevMlvbxnXc9Y3zc00w.jpg",
+            "original_language": "ja",
+            "original_title": "劇場版「Fate/stay night [Heaven’s Feel]」Ⅲ.spring song",
+            "genre_ids": [
+                16
+            ],
+            "title": "劇場版「Fate/stay night [Heaven’s Feel]」Ⅲ.spring song",
+            "vote_average": 4.4,
+            "overview": "",
+            "release_date": "2020-08-15"
+        },
+        {
+            "popularity": 51.176,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "/s88UCHnDNRbVduGA1p6Vp8hsgzb.jpg",
+            "id": 716799,
+            "adult": false,
+            "backdrop_path": "/dfyb6qvxXR9QEdTeLnlhdScshJ.jpg",
+            "original_language": "ja",
+            "original_title": "461個のおべんとう",
+            "genre_ids": [
+                18
+            ],
+            "title": "461個のおべんとう",
+            "vote_average": 0,
+            "overview": "",
+            "release_date": "2020-11-06"
+        },
+        {
+            "popularity": 50.368,
+            "vote_count": 40,
+            "video": false,
+            "poster_path": "/llBK9qjUYmc9E6QyXBdYAVGLrh9.jpg",
+            "id": 553604,
+            "adult": false,
+            "backdrop_path": "/tYkMtYPNpUdLdzGDUTC5atyMh9X.jpg",
+            "original_language": "en",
+            "original_title": "Honest Thief",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "title": "Um Último Golpe",
+            "vote_average": 6.8,
+            "overview": "Um assaltante de bancos decide mudar de vida e tornar-se numa pessoa honesta a partir do momento em que se apaixona por uma mulher que trabalha numa instalação de armazenamento, um lugar onde ele esconde todo o dinheiro que rouba. Mas fica cada vez mais difícil limpar o seu nome quando passa a ser investigado por um agente corrupto do FBI.",
+            "release_date": "2020-09-03"
+        },
+        {
+            "popularity": 46.229,
+            "vote_count": 10,
+            "video": false,
+            "poster_path": "/iSwTnNS7TKAS79Sz9LvyqlBxxrU.jpg",
+            "id": 547017,
+            "adult": false,
+            "backdrop_path": "/97UR8xPpUNqpvx5zr7eyf4YSBCE.jpg",
+            "original_language": "en",
+            "original_title": "Shirley",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "title": "Shirley",
+            "vote_average": 7,
+            "overview": "",
+            "release_date": "2020-09-11"
+        },
+        {
+            "popularity": 45.039,
+            "vote_count": 4,
+            "video": false,
+            "poster_path": "/3tjlM3bEiQODqdMFmz9U1utIqPw.jpg",
+            "id": 516632,
+            "adult": false,
+            "backdrop_path": "/9nm3eQY0FiPL391vlQrr4Q5WC9w.jpg",
+            "original_language": "en",
+            "original_title": "The Empty Man",
+            "genre_ids": [
+                80,
+                18,
+                27
+            ],
+            "title": "The Empty Man",
+            "vote_average": 5.8,
+            "overview": "",
+            "release_date": "2020-10-22"
+        },
+        {
+            "popularity": 44.149,
+            "vote_count": 100,
+            "video": false,
+            "poster_path": "/glwOyoD0Pzxzyb3l7nELEgjSjQ8.jpg",
+            "id": 606625,
+            "adult": false,
+            "backdrop_path": "/uz22R8kBpIaUC8pkOKZm7jZfLGN.jpg",
+            "original_language": "en",
+            "original_title": "Follow Me",
+            "genre_ids": [
+                12,
+                27,
+                53
+            ],
+            "title": "Follow Me",
+            "vote_average": 7.1,
+            "overview": "",
+            "release_date": "2020-07-16"
+        }
+    ],
+    "page": 1,
+    "total_results": 397,
+    "dates": {
+        "maximum": "2020-11-19",
+        "minimum": "2020-10-27"
+    },
+    "total_pages": 20
+}

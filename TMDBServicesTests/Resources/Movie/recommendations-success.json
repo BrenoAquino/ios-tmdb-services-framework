@@ -1,0 +1,393 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "id": 369885,
+            "video": false,
+            "vote_count": 3373,
+            "vote_average": 6.7,
+            "title": "Aliados",
+            "release_date": "2016-11-17",
+            "original_language": "en",
+            "original_title": "Allied",
+            "genre_ids": [
+                28,
+                18,
+                53,
+                10749,
+                10752
+            ],
+            "backdrop_path": "/Acyjn5ITzMKX7o9hdOor6SE2IWZ.jpg",
+            "adult": false,
+            "overview": "Em uma missão para eliminar um embaixador nazista em Casablanca, no Marrocos, os espiões Max Vatan e Marianne Beausejour se apaixonam perdidamente e decidem se casar. Os problemas começam anos depois, com suspeitas sobre uma conexão entre Marianne e os alemães. Intrigado, Max decide investigar o passado da companheira e os dias de felicidade do casal vão por água abaixo.",
+            "poster_path": "/57FDGagZiTxJdj56605UJM9cY4D.jpg",
+            "popularity": 22.151
+        },
+        {
+            "id": 321741,
+            "video": false,
+            "vote_count": 1843,
+            "vote_average": 7.1,
+            "title": "Um Homem Entre Gigantes",
+            "release_date": "2015-11-12",
+            "original_language": "en",
+            "original_title": "Concussion",
+            "genre_ids": [
+                18
+            ],
+            "backdrop_path": "/w5aLoZc3Q9rxymck3naLM7cNMqf.jpg",
+            "adult": false,
+            "overview": "Dr. Bennet Omalu (Will Smith), neuropatologista forense, diagnostica um severo trauma cerebral em um jogador de futebol americano, e investigando o assunto ele descobre se tratar de um mal comum entre os profissionais do esporte. Determinado a reverter o quadro e expor para o mundo a grave situação, ele trava uma guerra contra a poderosa NFL.",
+            "poster_path": "/n8dQeUiQPs46U9nRSJdMsiXth69.jpg",
+            "popularity": 11.591
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f9dpXyIkUFL4uVsEMRithbCJ0fR.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 11321,
+            "original_language": "en",
+            "original_title": "Seven Pounds",
+            "overview": "Ben Thomas (Will Smith) é um agente do imposto de renda que possui um segredo trágico. Por conta disso, ele é um homem que tem um grande sentimento de culpa, o que faz com que salve as vidas de completos desconhecidos. Porém, tudo muda quando ele conhece Emily Posa (Rosario Dawnson), pela primeira vez é Ben quem tem a chance de ser salvo.",
+            "poster_path": "/pxJOJUV9UVYMlHmQVUh4zcXCOSf.jpg",
+            "release_date": "2008-12-18",
+            "title": "Sete Vidas",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 4999,
+            "popularity": 19.31
+        },
+        {
+            "id": 381341,
+            "video": false,
+            "vote_count": 3293,
+            "vote_average": 7.9,
+            "title": "PERFEITOS DESCONHECIDOS",
+            "release_date": "2016-02-11",
+            "original_language": "it",
+            "original_title": "Perfetti sconosciuti",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "backdrop_path": "/1beV8cDzNTJEmI9M7z7BqnO3rSw.jpg",
+            "adult": false,
+            "overview": "Sete amigos de longa data se reúnem para um jantar. Em uma brincadeira, decidem compartilhar um com o outro, na mesa, o conteúdo de cada mensagem de texto, e-mail e ligações que recebem. No jogo, muitos segredos começam a revelar, provando que nem todos se conhecem de verdade.",
+            "poster_path": "/43EjlczfdIoF8afSgt6MsLlKCN2.jpg",
+            "popularity": 13.3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hqSS9juvWBh2zTMTQzIBJaTxP93.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648,
+                53
+            ],
+            "id": 346685,
+            "original_language": "en",
+            "original_title": "The Girl on the Train",
+            "overview": "Rachel (Emily Blunt), uma alcoólatra desempregada e deprimida, sofre pelo seu divórcio recente. Todas as manhãs ela viaja de trem de Ashbury a Londres, fantasiando sobre a vida de um jovem casal que vigia pela janela. Certo dia ela testemunha uma cena chocante e mais tarde descobre que a mulher está desaparecida. Inquieta, Rachel recorre a polícia e se vê completamente envolvida no mistério.",
+            "poster_path": "/sQGWOCFsYBGOwt9hQY7BT5m8rnl.jpg",
+            "release_date": "2016-10-05",
+            "title": "A Garota no Trem",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 4345,
+            "popularity": 16.916
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6VSss0C6xYmI7EteZIH9PkmsnF9.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 274479,
+            "original_language": "en",
+            "original_title": "Joy",
+            "overview": "Joy é uma jovem brilhante, mas sua vida pessoal é extremamente complicada. Divorciada e mãe de dois filhos, ela vive com seus pais e ex-marido, que mora no porão. Sua mãe, que vive no andar de cima e passa o dia todo assistindo a novelas, compartilha o espaço com seu pai, apesar de terem se divorciado há 17 anos. Criativa desde a infância, Joy inventa um esfregão de limpeza milagroso que se transforma em um fenômeno de vendas e faz dela uma das empreendedoras de maior sucesso dos Estados Unidos.",
+            "poster_path": "/onx1D2IzysZA0HaeY3du6ybZxvB.jpg",
+            "release_date": "2015-12-24",
+            "title": "Joy: O Nome do Sucesso",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 3195,
+            "popularity": 16.988
+        },
+        {
+            "id": 1402,
+            "video": false,
+            "vote_count": 6868,
+            "vote_average": 7.9,
+            "title": "À Procura da Felicidade",
+            "release_date": "2006-12-14",
+            "original_language": "en",
+            "original_title": "The Pursuit of Happyness",
+            "genre_ids": [
+                18
+            ],
+            "backdrop_path": "/1tZkdH65OjTIvDFaJu3BtXpFJbg.jpg",
+            "adult": false,
+            "overview": "Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.",
+            "poster_path": "/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg",
+            "popularity": 18.797
+        },
+        {
+            "id": 256591,
+            "video": false,
+            "vote_count": 5626,
+            "vote_average": 6.9,
+            "title": "Golpe Duplo",
+            "release_date": "2015-02-25",
+            "original_language": "en",
+            "original_title": "Focus",
+            "genre_ids": [
+                35,
+                80,
+                18,
+                10749
+            ],
+            "backdrop_path": "/3ig2KikC1E5Fe6qQSLOdRrEfCwx.jpg",
+            "adult": false,
+            "overview": "Nicky (Will Smith) é um trapaceiro profissional que é escolhido como vítima por uma iniciante na profissão, Jess (Margot Robbie). Ele se deixa levar pelo golpe para desmascará-la no momento certo. Decepcionada, Jess insiste para que Nicky lhe ensine seu método de trabalho e a aceite na equipe. Após uma certa relutância, Nicky não apenas concorda como se envolve romanticamente com ela, indo contra uma de suas principais regras.",
+            "poster_path": "/7kFmz3geXBWtBI5MivEepLcxXdv.jpg",
+            "popularity": 24.987
+        },
+        {
+            "id": 274870,
+            "video": false,
+            "vote_count": 9814,
+            "vote_average": 6.9,
+            "title": "Passageiros",
+            "release_date": "2016-12-21",
+            "original_language": "en",
+            "original_title": "Passengers",
+            "genre_ids": [
+                18,
+                878,
+                10749
+            ],
+            "backdrop_path": "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+            "adult": false,
+            "overview": "Uma nave espacial viajando para uma colônia em um distante planeta e transportando milhares de pessoas tem um mau funcionamento em suas câmaras do sono. Como resultado, dois passageiros são despertados 90 anos antes.",
+            "poster_path": "/4ttmnglFa2WxDK3yBkMX1VlpkTo.jpg",
+            "popularity": 17.458
+        },
+        {
+            "id": 295964,
+            "video": false,
+            "vote_count": 2301,
+            "vote_average": 6.5,
+            "title": "Pegando Fogo",
+            "release_date": "2015-10-02",
+            "original_language": "en",
+            "original_title": "Burnt",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "backdrop_path": "/uT9jBOf4cyvYj4FPf3R4KgHaNVB.jpg",
+            "adult": false,
+            "overview": "Adam Jones já foi um respeitado chef em Paris, mas o abuso de drogas e álcool destruiu sua carreira. Depois de passar um tempo em Nova Orleans, ele tem uma nova oportunidade em Londres, quando é contratado por seu antigo maître para ser o chef de cozinha de um restaurante requintado. Exigindo a perfeição da sua recém-formada equipe, o amargo e temperamental Jones tem uma segunda chance para realizar seu sonho de ganhar uma terceira estrela Michelin.",
+            "poster_path": "/pWhWu2edAAkpTN5iKeJnYuJit47.jpg",
+            "popularity": 16.418
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/phWZP5FESItyhQcqk6sWz35nUtP.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 363676,
+            "original_language": "en",
+            "original_title": "Sully",
+            "overview": "Em 2009, o mundo entrou em estado de choque e admiração quando o Capitão Chesley \"Sully\" Sullenberger conseguiu pousar um avião em pane no Rio Hudson. Esse ato quase impossível salvou a vida dos 150 passageiros e alçou Sully à categoria de herói nacional. No entanto, nem mesmo a aclamação pública foi capaz de impedir uma investigação rigorosa sobre sua reputação e carreira.",
+            "poster_path": "/ouxowmfrAv6lswjk10ZGC4pL2Vy.jpg",
+            "release_date": "2016-09-07",
+            "title": "Sully: O Herói do Rio Hudson",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 5012,
+            "popularity": 17.525
+        },
+        {
+            "id": 382591,
+            "video": false,
+            "vote_count": 2371,
+            "vote_average": 7.8,
+            "title": "Uma Família de Dois",
+            "release_date": "2016-12-07",
+            "original_language": "fr",
+            "original_title": "Demain tout commence",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "backdrop_path": "/a5bER7qXvvDGYRCjltILRiFgfY4.jpg",
+            "adult": false,
+            "overview": "Samuel (Omar Sy) nunca foi de ter muitas responsabilidades. Levando uma vida tranquila ao lado das pessoas que ama no litoral sul da França, ele vê tudo mudar com a chegada inesperada de uma bebê de poucos meses chamada Glória, sua filha. Incapaz de cuidar da criança, ele corre para Londres a fim de encontrar a mãe biológica, mas, sem sucesso, decide criá-la sozinho. Oito anos depois, quando Samuel e Glória se tornam inseparáveis, a mãe retorna para recuperar a menina.",
+            "poster_path": "/wn3Sjt1igkXnrpo0wy4NniP3EcJ.jpg",
+            "popularity": 12.269
+        },
+        {
+            "id": 310307,
+            "video": false,
+            "vote_count": 3145,
+            "vote_average": 7.1,
+            "title": "Fome de Poder",
+            "release_date": "2016-09-13",
+            "original_language": "en",
+            "original_title": "The Founder",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "backdrop_path": "/yHOQJEseRapVU4gcqPtEUiyjJCq.jpg",
+            "adult": false,
+            "overview": "A história da ascenção do McDonald's. Após receber uma demanda sem precedentes e notar uma movimentação de consumidores fora do normal, o vendedor de Illinois Ray Kroc (Michael Keaton) adquire uma participação nos negócios da lanchonete dos irmãos Richard e Maurice \"Mac\" McDonald no sul da Califórnia e, pouco a pouco eliminando os dois da rede, transforma a marca em um gigantesco império alimentício.",
+            "poster_path": "/1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg",
+            "popularity": 17.045
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hENBbG0J4zf4fFB3OVAC50poojR.jpg",
+            "genre_ids": [
+                18,
+                53,
+                878
+            ],
+            "id": 339988,
+            "original_language": "en",
+            "original_title": "The Circle",
+            "overview": "Mae é uma universitária cujo sonho é trabalhar na maior empresa de tecnologia do mundo, O Círculo. A organização foi fundada por Eamon Bailey e o seu principal produto é o SeeChange, uma pequena câmera que permite aos usuários compartilharem detalhes de suas vidas com o mundo. Mae vê sua vida mudar completamente quando é contratada pela empresa e sua função passa a ser documentar sua vida em tempo integral. O que ela não imaginava, no entanto, é que toda essa exposição teria um preço, não só para ela, mas também para todos ao seu redor.",
+            "poster_path": "/fHOLNgnV82ZXleXESKJoKtaWYxx.jpg",
+            "release_date": "2017-04-27",
+            "title": "O Círculo",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 3379,
+            "popularity": 29.135
+        },
+        {
+            "id": 293863,
+            "video": false,
+            "vote_count": 4614,
+            "vote_average": 7.4,
+            "title": "A Incrível História de Adaline",
+            "release_date": "2015-04-16",
+            "original_language": "en",
+            "original_title": "The Age of Adaline",
+            "genre_ids": [
+                18,
+                14,
+                10749
+            ],
+            "backdrop_path": "/w89trVfLmEdBxv7rxWKy5HyckXR.jpg",
+            "adult": false,
+            "overview": "Adaline Bowman (Blake Lively) nasceu na virada do século XX. Ela tinha uma vida normal até sofrer um grave acidente de carro. Desde então, ela, milagrosamente, não consegue mais envelhecer, se tornando um ser imortal com a aparência de 29 anos. Ela vive uma existência solitária, nunca se permitindo criar laços com ninguém, para não ter seu segredo revelado. Mas ela conhece o jovem filantropo, Ellis Jones (Michiel Huisman), um homem por quem pode valer a pena arriscar sua imortalidade.",
+            "poster_path": "/gU84OUm9c4R44Zx8U1YPbCzKqIo.jpg",
+            "popularity": 14.509
+        },
+        {
+            "id": 334543,
+            "video": false,
+            "vote_count": 5025,
+            "vote_average": 8.1,
+            "title": "Lion: Uma Jornada para Casa",
+            "release_date": "2016-01-20",
+            "original_language": "en",
+            "original_title": "Lion",
+            "genre_ids": [
+                18
+            ],
+            "backdrop_path": "/fgffluhvdOv79SkYaKrfRA0xkf4.jpg",
+            "adult": false,
+            "overview": "Quando tinha apenas cinco anos, o indiano Saroo se perdeu do irmão numa estação de trem de Calcutá e enfrentou grandes desafios para sobreviver sozinho até de ser adotado por uma família australiana. Incapaz de superar o que aconteceu, aos 25 anos ele decide buscar uma forma de reencontrar sua família biológica.",
+            "poster_path": "/svbUqOL9FdwCF9cKe4aEagVmteR.jpg",
+            "popularity": 18.204
+        },
+        {
+            "id": 296096,
+            "video": false,
+            "vote_count": 8028,
+            "vote_average": 7.8,
+            "title": "Como Eu Era Antes de Você",
+            "release_date": "2016-06-01",
+            "original_language": "en",
+            "original_title": "Me Before You",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "backdrop_path": "/iSR27TPEylaWpGJY6m8utE9JEaQ.jpg",
+            "adult": false,
+            "overview": "Will é um garoto rico e bem-sucedido, até sofrer um grave acidente que o deixa preso a uma cadeira de rodas. Ele está profundamente depressivo e contrata uma garota do campo para cuidar dele. Ela sempre levou uma vida modesta, com dificuldades financeiras e problemas no trabalho, mas está disposta a provar para Will que ainda existem razões para viver.",
+            "poster_path": "/3WMts1hmXf7pjqtw7IPtTCf1OYw.jpg",
+            "popularity": 50.609
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vukP0Dlib9i09wrlAOHcCP0hXHd.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 257211,
+            "original_language": "en",
+            "original_title": "The Intern",
+            "overview": "Jules Ostin (Anne Hathaway) é a criadora de um bem-sucedido site de venda de roupas que, apesar de ter apenas 18 meses, já tem mais de duas centenas de funcionários. Ela leva uma vida bastante atarefada, devido às exigências do cargo e ao fato de gostar de manter contato com o público. Quando sua empresa inicia um projeto de contratar idosos como estagiários, em uma tentativa de colocá-los de volta à ativa, cabe a ela trabalhar com o viúvo Ben Whittaker (Robert De Niro). Aos 70 anos, Ben leva uma vida monótona e vê o estágio como uma oportunidade de se reinventar. Por mais que enfrente o inevitável choque de gerações, logo ele conquista os colegas de trabalho e se aproxima cada vez mais de Jules, que passa a vê-lo como um amigo.",
+            "poster_path": "/jjI2z9PvWm69DHzhyYIrsmD6Gj6.jpg",
+            "release_date": "2015-09-24",
+            "title": "Um Senhor Estagiário",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 4599,
+            "popularity": 23.588
+        },
+        {
+            "id": 207932,
+            "video": false,
+            "vote_count": 4742,
+            "vote_average": 6.0,
+            "title": "Inferno",
+            "release_date": "2016-10-13",
+            "original_language": "en",
+            "original_title": "Inferno",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "backdrop_path": "/irmIOi0wTnNtzG2uNCGIjjpjaMJ.jpg",
+            "adult": false,
+            "overview": "O renomado professor de simbologia de Harvard, Robert Langdon (Tom Hanks) visita a Itália e se envolve em mais uma aventura envolvendo símbolos ocultos e corporações secretas. Ele se vê em uma jornada em que procura desvendar os mistérios do clássico da literatura \"A Divina Comédia\", de Dante Alighieri.",
+            "poster_path": "/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg",
+            "popularity": 21.415
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 381284,
+            "original_language": "en",
+            "original_title": "Hidden Figures",
+            "overview": "Ano 1961, em plena Guerra Fria, Estados Unidos e União Soviética disputam a supremacia na corrida espacial ao mesmo tempo em que a sociedade norte-americana lida com uma profunda cisão racial, entre brancos e negros. Tal situação é refletida também na NASA, onde um grupo de funcionárias negras é obrigada a trabalhar a parte. É lá que estão Katherine Johnson (Taraji P. Henson), Dorothy Vaughn (Octavia Spencer) e Mary Jackson (Janelle Monáe), grandes amigas que, além de provar sua competência dia após dia, precisam lidar com o preconceito arraigado para que consigam ascender na hierarquia da NASA.",
+            "poster_path": "/6A1Jn0tooQYgi2C8sNz5OaIW98C.jpg",
+            "release_date": "2016-12-10",
+            "title": "Estrelas Além do Tempo",
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 6256,
+            "popularity": 22.151
+        }
+    ],
+    "total_pages": 2,
+    "total_results": 40
+}
