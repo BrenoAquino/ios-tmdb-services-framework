@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.osx.deployment_target  = "10.14"
 
   spec.source         = { :git => "https://github.com/BrenoAquino/ios-tmdb-services-framework.git", :tag => "#{spec.version}" }
-  spec.source_files   = "TMDBServices/"
+  spec.source_files   = "Sources/"
 
   spec.dependency "Moya", "14.0.0"
 end
