@@ -215,8 +215,7 @@
 				55649D64257C9851001AB8B5 /* Config */,
 				55649D6E257C9851001AB8B5 /* Domains */,
 				55649D82257C9851001AB8B5 /* Interfaces */,
-				55649D4B257C981A001AB8B5 /* TMDBServices.h */,
-				55649D4C257C981A001AB8B5 /* Info.plist */,
+				55C91237257EA51B0062BDB3 /* Supporting Files */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -464,6 +463,15 @@
 				55B27189257E7BC900CA4F94 /* Info.plist */,
 			);
 			path = Example;
+			sourceTree = "<group>";
+		};
+		55C91237257EA51B0062BDB3 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				55649D4B257C981A001AB8B5 /* TMDBServices.h */,
+				55649D4C257C981A001AB8B5 /* Info.plist */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		7D0F9C72670D371088E9BB0C /* Pods */ = {
