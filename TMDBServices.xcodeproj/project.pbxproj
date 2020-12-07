@@ -211,10 +211,7 @@
 		55649D4A257C981A001AB8B5 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				55649D7E257C9851001AB8B5 /* Common */,
-				55649D64257C9851001AB8B5 /* Config */,
-				55649D6E257C9851001AB8B5 /* Domains */,
-				55649D82257C9851001AB8B5 /* Interfaces */,
+				55C9123E257EA66B0062BDB3 /* TMDBServices */,
 				55C91237257EA51B0062BDB3 /* Supporting Files */,
 			);
 			path = Sources;
@@ -472,6 +469,17 @@
 				55649D4C257C981A001AB8B5 /* Info.plist */,
 			);
 			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		55C9123E257EA66B0062BDB3 /* TMDBServices */ = {
+			isa = PBXGroup;
+			children = (
+				55649D7E257C9851001AB8B5 /* Common */,
+				55649D64257C9851001AB8B5 /* Config */,
+				55649D6E257C9851001AB8B5 /* Domains */,
+				55649D82257C9851001AB8B5 /* Interfaces */,
+			);
+			path = TMDBServices;
 			sourceTree = "<group>";
 		};
 		7D0F9C72670D371088E9BB0C /* Pods */ = {
@@ -977,7 +985,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Sources/Info.plist;
+				INFOPLIST_FILE = "Sources/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1002,7 +1010,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = Sources/Info.plist;
+				INFOPLIST_FILE = "Sources/Supporting Files/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

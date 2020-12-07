@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "TMDBServices"
-  spec.version      = "1.0.8"
+  spec.version      = "1.0.9"
   spec.summary      = "Short description of TMDBServices."
   spec.description  = "Another description of TMDBServices, but it is more longer."
   spec.homepage     = "https://github.com/BrenoAquino/ios-tmdb-services-framework"
@@ -13,8 +13,7 @@ Pod::Spec.new do |spec|
   spec.osx.deployment_target  = "10.14"
 
   spec.source             = { :git => "https://github.com/BrenoAquino/ios-tmdb-services-framework.git", :tag => "#{spec.version}" }
-  spec.source_files       = "Sources/**/*"
-  spec.spec.exclude_files = "Sources/Supporting Files"
+  spec.source_files       = "Sources/TMDBServices/**/*"
 
   spec.dependency "Moya", "14.0.0"
 end
