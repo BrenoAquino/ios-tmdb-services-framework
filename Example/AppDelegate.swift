@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import TMDBServices
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
