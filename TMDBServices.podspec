@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "TMDBServices"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.5"
   spec.summary      = "Short description of TMDBServices."
   spec.description  = "Another description of TMDBServices, but it is more longer."
   spec.homepage     = "https://github.com/BrenoAquino/ios-tmdb-services-framework"
