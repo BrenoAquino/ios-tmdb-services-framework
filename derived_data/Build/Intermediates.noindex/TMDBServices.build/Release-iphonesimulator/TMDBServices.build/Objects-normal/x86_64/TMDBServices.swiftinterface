@@ -1,0 +1,132 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)
+// swift-module-flags: -target x86_64-apple-ios14.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name TMDBServices
+import Foundation
+import Moya
+import Swift
+@_exported import TMDBServices
+@objc @_hasMissingDesignatedInitializers public class MovieDBConfig : ObjectiveC.NSObject {
+  @objc deinit
+  @objc override dynamic public init()
+}
+extension MovieDBConfig {
+  public static let baseURL: Swift.String
+  public static let baseImageURL: Swift.String
+}
+public struct TMDBErrorModel : Swift.Codable {
+  public var statusCode: Swift.Int?
+  public let errorCode: Swift.Int?
+  public let message: Swift.String?
+  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public struct TMDBError : Swift.Error {
+  public enum ErrorType : Swift.Int {
+    case generic
+    case encodingError
+    case networkUnavailable1
+    case networkUnavailable2
+    case requestCancelled
+    public typealias RawValue = Swift.Int
+    public init?(rawValue: Swift.Int)
+    public var rawValue: Swift.Int {
+      get
+    }
+  }
+  public var response: Moya.Response?
+  public var type: TMDBServices.TMDBError.ErrorType
+  public var message: Swift.String? {
+    get
+  }
+  public var statusCode: Swift.Int? {
+    get
+  }
+  public var errorCode: Swift.Int? {
+    get
+  }
+  public init(_ error: Swift.Error)
+  public init(_ moyaError: Moya.MoyaError)
+}
+public struct ProductCompany : Swift.Codable {
+  public let id: Swift.Int?
+  public let logo: Swift.String?
+  public let name: Swift.String?
+  public let originCountry: Swift.String?
+  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public struct Movie : Swift.Codable {
+  public let popularity: Swift.Double?
+  public let voteCount: Swift.Int?
+  public let hasVideo: Swift.Bool?
+  public let poster: Swift.String?
+  public let id: Swift.Int?
+  public let adult: Swift.Bool?
+  public let backdrop: Swift.String?
+  public let originalLanguage: Swift.String?
+  public let originalTitle: Swift.String?
+  public let genreIDs: [Swift.Int]?
+  public let title: Swift.String?
+  public let voteAverage: Swift.Double?
+  public let overview: Swift.String?
+  public let releaseDate: Swift.String?
+  public let genres: [TMDBServices.Genre]?
+  public let budget: Swift.Int?
+  public let homepage: Swift.String?
+  public let imdbId: Swift.String?
+  public let revenue: Swift.Int?
+  public let runtime: Swift.Int?
+  public let status: Swift.String?
+  public let tagline: Swift.String?
+  public let productionCompanies: [TMDBServices.ProductCompany]?
+  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+@_hasMissingDesignatedInitializers public class TMDBServices {
+  public static let shared: TMDBServices.TMDBServices
+  public var apiKey: Swift.String
+  @objc deinit
+}
+public class HomeInterface {
+  public struct HomeResult {
+  }
+  public init()
+  public func home(callback: @escaping (Swift.Result<TMDBServices.HomeInterface.HomeResult, TMDBServices.TMDBError>) -> Swift.Void)
+  @objc deinit
+}
+public struct Keyword : Swift.Codable {
+  public let id: Swift.Int
+  public let name: Swift.String
+  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public struct Genre : Swift.Codable {
+  public let id: Swift.Int
+  public let name: Swift.String
+  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public protocol CachePolicyAPI {
+  var cachePolicy: Foundation.URLRequest.CachePolicy? { get }
+}
+@_hasMissingDesignatedInitializers public class Mock {
+  public static let shared: TMDBServices.Mock
+  public func get(target: Moya.TargetType) -> Moya.Endpoint?
+  public func add(target: Moya.TargetType, endpoint: @escaping ((Moya.TargetType) -> Moya.Endpoint))
+  public func reset()
+  public func dataFromJson(_ name: Swift.String) -> Foundation.Data
+  @objc deinit
+}
+public class DetailInterface {
+  public struct DetailResult {
+  }
+  public init()
+  public func getDetail(group: Dispatch.DispatchGroup?, id: Swift.Int, callback: @escaping (Swift.Result<TMDBServices.Movie, TMDBServices.TMDBError>) -> Swift.Void)
+  public func getKeywords(group: Dispatch.DispatchGroup?, id: Swift.Int, callback: @escaping (Swift.Result<[TMDBServices.Keyword], TMDBServices.TMDBError>) -> Swift.Void)
+  public func getRecommendations(group: Dispatch.DispatchGroup?, id: Swift.Int, callback: @escaping (Swift.Result<[TMDBServices.Movie], TMDBServices.TMDBError>) -> Swift.Void)
+  public func detail(id: Swift.Int, callback: @escaping (Swift.Result<TMDBServices.DetailInterface.DetailResult, TMDBServices.TMDBError>) -> Swift.Void)
+  @objc deinit
+}
+extension TMDBServices.TMDBError.ErrorType : Swift.Equatable {}
+extension TMDBServices.TMDBError.ErrorType : Swift.Hashable {}
+extension TMDBServices.TMDBError.ErrorType : Swift.RawRepresentable {}

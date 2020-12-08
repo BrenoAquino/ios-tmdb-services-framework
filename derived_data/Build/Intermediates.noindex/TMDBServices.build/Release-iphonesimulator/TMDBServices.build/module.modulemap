@@ -1,0 +1,11 @@
+framework module TMDBServices {
+  umbrella header "TMDBServices.h"
+
+  export *
+  module * { export * }
+}
+
+module TMDBServices.Swift {
+    header "TMDBServices-Swift.h"
+    requires objc
+}

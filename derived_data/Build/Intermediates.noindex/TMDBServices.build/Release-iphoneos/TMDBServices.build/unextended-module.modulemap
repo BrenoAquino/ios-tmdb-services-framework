@@ -1,0 +1,10 @@
+framework module TMDBServices {
+  umbrella header "TMDBServices.h"
+
+  export *
+  module * { export * }
+}
+
+module TMDBServices.__Swift {
+    exclude header "TMDBServices-Swift.h"
+}

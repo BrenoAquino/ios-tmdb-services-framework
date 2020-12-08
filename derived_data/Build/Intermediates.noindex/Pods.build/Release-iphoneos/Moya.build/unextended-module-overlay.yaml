@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/breno/Developer/movies/ios-tmdb-services-framework/derived_data/Build/Products/Release-iphoneos/Moya/Moya.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/breno/Developer/movies/ios-tmdb-services-framework/derived_data/Build/Intermediates.noindex/Pods.build/Release-iphoneos/Moya.build/unextended-module.modulemap",
+    }]
+  }]
+}
